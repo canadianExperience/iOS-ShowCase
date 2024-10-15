@@ -1,14 +1,17 @@
 # Point of interests
+## App description:
+- displays current user location
+- provides default point of interest: "Restaurants", "Hotels", "Gas", "Coffee" and custom search
+- displays point of interests on the map and on the details bottom sheet list sorted by distance
+- allows to select single marker on the map or bottom sheet list item to draw a route from your current location
+- shows look around picture, "call" and "take me there" options
+## Technologies:
 - MapKit
-
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/e5dad7d3-2532-4bba-9935-c4eb33558919">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/4c16b686-db4e-4ae5-b9b3-a8944a195be6">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/7757e846-c97a-4db0-bfd1-9089634528c6">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/e00cafb6-bf77-45e5-8934-9c3ea92451a4">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/ec0bb04b-235b-407e-824c-73ee4e642f69">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/7122a129-e667-4b61-b2c7-1656fe8e4ccd">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/1ce72395-151f-450f-80e7-ef1292e17c98">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/0b65b430-90b3-4f06-9519-ebd8a0ae797f">
+- SwiftUI
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/0b789faf-2c1f-43ba-a9de-7dec0110cda8">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/06a91265-88da-4137-93da-f913b6633866">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/f38fa6b9-0f2b-4b07-8ed4-81ee5a8aa894">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/d14d9507-c228-4118-b46d-e647b0064011">
 
 # Map
 - Location Manager - current/custom location
@@ -84,7 +87,16 @@
 
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/872cbb99-c1aa-4764-b41f-2f09e87ba3ce">
 
+# Currency Rates
+## App description:
+App fetches 1 EUR exchange rates
+## Technologies:
+- API: https://exchangeratesapi.io/documentation/
+- Combine
+- SwiftUI
+- MVVM
 
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/4a7af295-395a-49f6-8575-b2b83105e3f2">
 
 
 
