@@ -68,27 +68,29 @@
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/3ee91c7c-1aa4-4eae-b1e3-3980e7919bf5">
 
 ## Weatherly
-- API: https://openweathermap.org/
+- Fetch weather temperature by location name (query) from API: https://openweathermap.org/
+### Technologies
+- WebService, Network error handler
 - MeasurementFormatter
-- API endpoints
+- SwiftUI
 
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/9f8b8bd7-b086-4a92-95f5-323182c17484">
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/9e264b40-907d-4c37-9917-e9dfb9fba41d">
 
-## Product App
-- API: https://fakestoreapi.com/
-- NetworkError handler
+## Product
+- Fetch products from API: https://fakestoreapi.com/
+### Technologies
+- WebService, Network error handler
+- NumberFormatter
+- SwiftUI
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/6b6467d9-c830-4386-834f-739b61d425d7">
 
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/872cbb99-c1aa-4764-b41f-2f09e87ba3ce">
-
-# Currency Rates
+# Currency Exchange
 ## App description:
-App fetches 1 EUR exchange rates
+- Fetches 1 EUR exchange rates from API: https://exchangeratesapi.io/documentation/
 ## Technologies:
-- API: https://exchangeratesapi.io/documentation/
 - Combine
 - SwiftUI
 - MVVM
-
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/4a7af295-395a-49f6-8575-b2b83105e3f2">
 
 ## Hikes
