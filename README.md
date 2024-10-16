@@ -1,6 +1,6 @@
 # Point of interests
 - Current user location
-- Default near locations: "Restaurants", "Hotels", "Gas", "Coffee" and custom search
+- Search for locations: "Restaurants", "Hotels", "Gas", "Coffee" or custom search
 - Point of interests location markers and bottom sheet list items sorted by distance
 - Route selection
 - "Look around", "Call" and "Take me there" options
