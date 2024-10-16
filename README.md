@@ -1,25 +1,30 @@
 # Point of interests
 ## App description:
-- displays current user location
-- provides default point of interest: "Restaurants", "Hotels", "Gas", "Coffee" and custom search
-- displays point of interests on the map and on the details bottom sheet list sorted by distance
-- allows to select single marker on the map or bottom sheet list item to draw a route from your current location
-- shows look around picture, "call" and "take me there" options
+- current user location
+- default near locations: "Restaurants", "Hotels", "Gas", "Coffee" and custom search
+- point of interests location markers and bottom sheet list items sorted by distance
+- route selection
+- "look around", "call" and "take me there" options
 ## Technologies:
-- MapKit
+- MapKit (Location Manager)
 - SwiftUI
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/64226338-3f52-476f-a00d-7f544bc9faa3">
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/0b789faf-2c1f-43ba-a9de-7dec0110cda8">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/f0719e00-bf5f-49ce-9079-d3359547686b">
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/06a91265-88da-4137-93da-f913b6633866">
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/f38fa6b9-0f2b-4b07-8ed4-81ee5a8aa894">
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/d14d9507-c228-4118-b46d-e647b0064011">
 
-# Map
-- Location Manager - current/custom location
-- Map style selector
-
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/f9b3d110-d1f0-4537-9681-a54643ff0afd">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/e6ee51f2-5bc8-4eec-8f8b-3a56f8042b51">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/26397e0e-2e18-4a36-bea7-aeed013a0f17">
+# Map experiment
+## App description:
+- current and custom locations
+- map style picker
+## Technologies:
+- MapKit (Location Manager)
+- SwiftUI
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/64cfe0a1-c8b9-4d3a-b59d-a88929562727">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/7758dbc2-beb9-4f11-bd9b-d22d5c50caa0">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/a368665c-d30e-4791-ac0b-5a8da7e4a840">
 
 # Movies
 - Swift Data - CRUD operations
