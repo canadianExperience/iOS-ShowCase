@@ -4,7 +4,7 @@
 - Point of interests location markers and bottom sheet list items sorted by distance
 - Route selection
 - "Look around", "Call" and "Take me there" options
-## Technologies
+### Technologies
 - MapKit (Location Manager)
 - SwiftUI
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/64226338-3f52-476f-a00d-7f544bc9faa3">
@@ -17,7 +17,7 @@
 # Hello Map
 - Current and custom locations
 - Map style picker
-## Technologies
+### Technologies
 - MapKit (Location Manager)
 - SwiftUI
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/64cfe0a1-c8b9-4d3a-b59d-a88929562727">
@@ -27,7 +27,7 @@
 # Movies
 - Add/edit/delete "Movie", "Actor" and "Review", 
 - Filter options - "Filter by title", "Filter by number of reviews", "Filter by genre"
-## Technologies
+### Technologies
 - Local storage (Swift Data)
 - CRUD operations
 - Data relationships: one-to-one ("Movie"), one-to-many("Review"), and many-to-many("Actor")
@@ -42,7 +42,7 @@
 
 # Budget
 - Add/edit/delete "Budget" and "Category"
-## Technologies
+### Technologies
 - Local storage (Core Data)
 - CRUD operations
 - Data relationships: one-to-one ("Budget") and one-to-many("Category")
@@ -52,41 +52,22 @@
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/1db74ac6-b12e-4c63-82f4-eaa53b21ca9d">
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/6594e99e-bfae-4e14-959a-c9729497989d">
 
-# ToDo
-- Add/edit/delete "ToDo"
-- Dark theme on/off 
-- Focus mode - show/hide not completed "Todos"
-- Fetch "ToDos" Error handler
-## Technologies
-- Local storage (Core Data)
+# Coffee orders - Glitch POC
+- API calls - add/edit/delete "Order"
+  
+### Technologies
+- Custom API (Glitch)
 - CRUD operations
-- Data relationships: one-to-one ("ToDo")
-- Color Transformer
+- Webservice
+- Environment handler
 - Form validation
-- SwiftUI
-
-# Coffee orders
-- API calls (CRUD)
 - MVVM
-
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/9a6b7196-ba1d-405a-b4f7-393daf0079a4">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/19515bbf-78ab-4728-86cd-eb8865ca05c6">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/9b36acf5-e8cb-4a81-b860-06201d6f0a91">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/42fce582-9286-4665-a795-e25e7dd4c756">
-
-## Hikes
-- List of hikes
-- Hike details
-## Technologies
-- Identifiable
-- Animation
-- SwiftUI 
-<img width="220"  height="470" alt="image" src="https://github.com/user-attachments/assets/43d95e30-df17-45f4-be32-e3fabb160fd5">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/39020db4-3062-4483-ad9c-3e02966a0c49">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/ebf51d92-ea34-44cf-9285-f5af070c95bf">
+- SwiftUI
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/ff975200-5dde-4075-9a73-2620dd44bf48">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/1b26368b-065f-4782-b144-855cbc4897ed">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/3ee91c7c-1aa4-4eae-b1e3-3980e7919bf5">
 
 ## Weatherly
-
 - API: https://openweathermap.org/
 - MeasurementFormatter
 - API endpoints
@@ -110,7 +91,16 @@ App fetches 1 EUR exchange rates
 
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/4a7af295-395a-49f6-8575-b2b83105e3f2">
 
-
+## Hikes
+- List of hikes
+- Hike details
+### Technologies
+- Identifiable
+- Animation
+- SwiftUI 
+<img width="220"  height="470" alt="image" src="https://github.com/user-attachments/assets/43d95e30-df17-45f4-be32-e3fabb160fd5">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/39020db4-3062-4483-ad9c-3e02966a0c49">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/ebf51d92-ea34-44cf-9285-f5af070c95bf">
 
 
 
