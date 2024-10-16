@@ -27,17 +27,19 @@
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/a368665c-d30e-4791-ac0b-5a8da7e4a840">
 
 # Movies
-- Swift Data - CRUD operations
-- Data relationships: one-to-one, one-to-many, and many-to-many
-
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/e71f82c4-86f4-47dc-90a3-cfad0d81d66d">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/76e29fe7-d601-49b6-9f5c-3a061c4cb422">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/fba25883-d1dd-435d-824d-31a525cb6176">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/0791b56b-684f-4a45-a3ca-fb03b1ebf6e6">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/2d811204-a3a4-41e9-8960-a8360b9a20c7">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/d5127356-5be0-4b57-aa14-b03c9b0c6473">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/fc63a728-4e98-4fad-b755-b6ea63c776ea">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/50dbcfa0-c80f-4788-a8c2-31c6f15774b0">
+## App description:
+- CRUD operations
+- filter options - "Filter by title", "Filter by number of reviews", "Filter by genre"
+- Data relationships: one-to-one ("Movie"), one-to-many("Review"), and many-to-many("Actor")
+## Technologies:
+- Swift Data
+- SwiftUI
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/53fa0159-b338-4713-937b-5ea0f94354ab">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/26aa7911-3708-41f6-b8f6-3314e8bcea34">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/7a0de3a1-3e33-4712-b605-c8eb68c4504e">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/2f4a85a0-6b19-4a9d-b149-9814314002fe">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/8cdc3d30-6034-44e4-8ca5-1530b84a40a3">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/4109e6bf-1fe5-4069-992e-580c3f74aaca">
 
 # Budget
 - Local storage: Core Data
