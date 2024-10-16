@@ -1,10 +1,10 @@
 # Point of interests
 ## App description:
-- current user location
-- default near locations: "Restaurants", "Hotels", "Gas", "Coffee" and custom search
-- point of interests location markers and bottom sheet list items sorted by distance
-- route selection
-- "look around", "call" and "take me there" options
+- Current user location
+- Default near locations: "Restaurants", "Hotels", "Gas", "Coffee" and custom search
+- Point of interests location markers and bottom sheet list items sorted by distance
+- Route selection
+- "Look around", "Call" and "Take me there" options
 ## Technologies:
 - MapKit (Location Manager)
 - SwiftUI
@@ -17,8 +17,8 @@
 
 # Map experiment
 ## App description:
-- current and custom locations
-- map style picker
+- Current and custom locations
+- Map style picker
 ## Technologies:
 - MapKit (Location Manager)
 - SwiftUI
@@ -28,27 +28,32 @@
 
 # Movies
 ## App description:
+- Local storage
 - CRUD operations
-- filter options - "Filter by title", "Filter by number of reviews", "Filter by genre"
+- Filter options - "Filter by title", "Filter by number of reviews", "Filter by genre"
 - Data relationships: one-to-one ("Movie"), one-to-many("Review"), and many-to-many("Actor")
 ## Technologies:
 - Swift Data
 - SwiftUI
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/53fa0159-b338-4713-937b-5ea0f94354ab">
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/26aa7911-3708-41f6-b8f6-3314e8bcea34">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/7a0de3a1-3e33-4712-b605-c8eb68c4504e">
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/2f4a85a0-6b19-4a9d-b149-9814314002fe">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/7a0de3a1-3e33-4712-b605-c8eb68c4504e">
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/8cdc3d30-6034-44e4-8ca5-1530b84a40a3">
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/4109e6bf-1fe5-4069-992e-580c3f74aaca">
 
 # Budget
-- Local storage: Core Data
+## App description:
+- Local storage
 - CRUD operations
 - Form validation
-
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/29b66eaa-d7f6-4a52-872d-1ca091fef392">
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/4f80db63-e237-4534-9159-9d9b516c9087">
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/eb59b994-ddfb-4b39-a13e-33f6c0f62708">
+- Data relationships: one-to-one ("Budget") and one-to-many("Category")
+## Technologies:
+- Core Data
+- SwiftUI
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/65728434-b1d8-42d4-9aa3-9c656e03fddb">
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/1db74ac6-b12e-4c63-82f4-eaa53b21ca9d">
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/6594e99e-bfae-4e14-959a-c9729497989d">
 
 # Room management
 - Core Data - CRUD operations
