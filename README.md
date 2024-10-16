@@ -1,11 +1,10 @@
 # Point of interests
-## App description:
 - Current user location
 - Default near locations: "Restaurants", "Hotels", "Gas", "Coffee" and custom search
 - Point of interests location markers and bottom sheet list items sorted by distance
 - Route selection
 - "Look around", "Call" and "Take me there" options
-## Technologies:
+## Technologies
 - MapKit (Location Manager)
 - SwiftUI
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/64226338-3f52-476f-a00d-7f544bc9faa3">
@@ -15,11 +14,10 @@
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/f38fa6b9-0f2b-4b07-8ed4-81ee5a8aa894">
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/d14d9507-c228-4118-b46d-e647b0064011">
 
-# Map experiment
-## App description:
+# Hello Map
 - Current and custom locations
 - Map style picker
-## Technologies:
+## Technologies
 - MapKit (Location Manager)
 - SwiftUI
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/64cfe0a1-c8b9-4d3a-b59d-a88929562727">
@@ -27,45 +25,45 @@
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/a368665c-d30e-4791-ac0b-5a8da7e4a840">
 
 # Movies
-## App description:
-- Local storage
-- CRUD operations
+- Add/edit/delete "Movie", "Actor" and "Review", 
 - Filter options - "Filter by title", "Filter by number of reviews", "Filter by genre"
+## Technologies
+- Local storage (Swift Data)
+- CRUD operations
 - Data relationships: one-to-one ("Movie"), one-to-many("Review"), and many-to-many("Actor")
-## Technologies:
-- Swift Data
+- Form validation
 - SwiftUI
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/2f4a85a0-6b19-4a9d-b149-9814314002fe">
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/53fa0159-b338-4713-937b-5ea0f94354ab">
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/26aa7911-3708-41f6-b8f6-3314e8bcea34">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/2f4a85a0-6b19-4a9d-b149-9814314002fe">
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/7a0de3a1-3e33-4712-b605-c8eb68c4504e">
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/8cdc3d30-6034-44e4-8ca5-1530b84a40a3">
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/4109e6bf-1fe5-4069-992e-580c3f74aaca">
 
 # Budget
-## App description:
-- Local storage
+- Add/edit/delete "Budget" and "Category"
+## Technologies
+- Local storage (Core Data)
 - CRUD operations
-- Form validation
 - Data relationships: one-to-one ("Budget") and one-to-many("Category")
-## Technologies:
-- Core Data
+- Form validation
 - SwiftUI
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/65728434-b1d8-42d4-9aa3-9c656e03fddb">
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/1db74ac6-b12e-4c63-82f4-eaa53b21ca9d">
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/6594e99e-bfae-4e14-959a-c9729497989d">
 
-# Room management
-- Core Data - CRUD operations
+# ToDo
+- Add/edit/delete "ToDo"
+- Dark theme on/off 
+- Focus mode - show/hide not completed "Todos"
+- Fetch "ToDos" Error handler
+## Technologies
+- Local storage (Core Data)
+- CRUD operations
+- Data relationships: one-to-one ("ToDo")
 - Color Transformer
 - Form validation
-
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/f66d167a-f346-42c9-91fe-b0fe26f3e808">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/a73bd5a5-541c-44c0-8e56-3c12a1fe75c8">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/b1469227-0362-4847-8ced-8d09f42c5b4f">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/1eff5ce6-464f-40b7-a460-4749cc396066">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/b3b997fc-897f-40f1-99a1-8d696544e3e0">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/4f2331ea-26a7-4d4d-939e-14e1568c5e11">
+- SwiftUI
 
 # Coffee orders
 - API calls (CRUD)
@@ -77,13 +75,15 @@
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/42fce582-9286-4665-a795-e25e7dd4c756">
 
 ## Hikes
-
+- List of hikes
+- Hike details
+## Technologies
 - Identifiable
 - Animation
-  
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/033f5185-e13e-4ce4-adf4-60c59c4c3641">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/b66e6ee6-d508-44a6-a1a6-149096014c87">
-<img width="220"  height="470" alt="image" src="https://github.com/user-attachments/assets/1838db8f-d1f1-4f5b-8cdb-ac425197b80a">
+- SwiftUI 
+<img width="220"  height="470" alt="image" src="https://github.com/user-attachments/assets/43d95e30-df17-45f4-be32-e3fabb160fd5">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/39020db4-3062-4483-ad9c-3e02966a0c49">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/ebf51d92-ea34-44cf-9285-f5af070c95bf">
 
 ## Weatherly
 
