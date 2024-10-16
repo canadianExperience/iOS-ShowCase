@@ -85,9 +85,8 @@
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/6b6467d9-c830-4386-834f-739b61d425d7">
 
 # Currency Exchange
-## App description:
 - Fetches 1 EUR exchange rates from API: https://exchangeratesapi.io/documentation/
-## Technologies:
+### Technologies:
 - Combine
 - SwiftUI
 - MVVM
