@@ -1,3 +1,15 @@
+# Movies OMDb API
+- Search "Movie" by query
+- Display "Movie" details page
+### Technologies
+- API: "https://www.omdbapi.com/?s=QUERY&page=2&apiKey=API_KEY"
+- Combine
+- HTTP Client, error handler
+- XCTest
+- SwiftUI
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/5dcb4e88-cc1b-44e6-a8ae-90814f36cf8c">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/0774428f-9fbe-42a5-9837-c24a581a61e3">
+
 # Point of interests
 - Current user location
 - Search for locations: "Restaurants", "Hotels", "Gas", "Coffee" or custom search
