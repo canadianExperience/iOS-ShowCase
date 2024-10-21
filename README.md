@@ -5,6 +5,7 @@
 - API: "https://www.omdbapi.com/?s=QUERY&page=2&apiKey=API_KEY"
 - Combine
 - HTTP Client, error handler
+- API caching
 - XCTest
 - SwiftUI
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/5dcb4e88-cc1b-44e6-a8ae-90814f36cf8c">
