@@ -8,8 +8,8 @@
 - API caching
 - XCTest
 - SwiftUI
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/5dcb4e88-cc1b-44e6-a8ae-90814f36cf8c">
-<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/0774428f-9fbe-42a5-9837-c24a581a61e3">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/07847f4c-9103-4388-8f12-1bf2dfd93949">
+<img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/c80318ac-cddc-49c4-8ee4-fbfc3448134e">
 
 # Point of interests
 - Current user location
