@@ -12,11 +12,11 @@
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/c80318ac-cddc-49c4-8ee4-fbfc3448134e">
 
 # Point of interests
-- Current user location
+- Show current user location
 - Search for locations: "Restaurants", "Hotels", "Gas", "Coffee" or custom search
 - Point of interests location markers and bottom sheet list items sorted by distance
-- Route selection
-- "Look around", "Call" and "Take me there" options
+- Select route
+- Display options - "Look around", "Call" and "Take me there"
 ### Technologies
 - MapKit (Location Manager)
 - SwiftUI
@@ -28,7 +28,7 @@
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/d14d9507-c228-4118-b46d-e647b0064011">
 
 # Hello Map
-- Current and custom locations
+- Show current and custom locations
 - Map style picker
 ### Technologies
 - MapKit (Location Manager)
@@ -66,7 +66,7 @@
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/6594e99e-bfae-4e14-959a-c9729497989d">
 
 # Coffee orders - Glitch POC
-- API calls - add/edit/delete "Order"
+- Add/edit/delete "Order" - API calls implementation
   
 ### Technologies
 - Custom API (Glitch)
@@ -98,16 +98,16 @@
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/6b6467d9-c830-4386-834f-739b61d425d7">
 
 # Currency Exchange
-- Fetches 1 EUR exchange rates from API: https://exchangeratesapi.io/documentation/
+- Fetch 1 EUR exchange rates from API: https://exchangeratesapi.io/documentation/
 ### Technologies:
 - Combine
 - SwiftUI
 - MVVM
 <img width="220" height="470" alt="image" src="https://github.com/user-attachments/assets/4a7af295-395a-49f6-8575-b2b83105e3f2">
 
-## Hikes
-- List of hikes
-- Hike details
+# Hikes
+- Display list of hikes
+- Navigate to details page
 ### Technologies
 - Identifiable
 - Animation
